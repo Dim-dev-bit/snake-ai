@@ -1,4 +1,4 @@
-## Snake AI using Deep Q learning
+## Snake AI с использованием Deep Q learning
 
 Основано на туториале от Patrick Loeber
 Использовался PyTorch
